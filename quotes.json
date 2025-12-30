@@ -1,0 +1,6002 @@
+[
+  {
+    "_id": 1,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 2,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 3,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 4,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 5,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 6,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 7,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 8,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 9,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 10,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 11,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 12,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 13,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 14,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 15,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 16,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 17,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 18,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 19,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 20,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 21,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 22,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 23,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 24,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 25,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 26,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 27,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 28,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 29,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 30,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 31,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 32,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 33,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 34,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 35,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 36,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 37,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 38,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 39,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 40,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 41,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 42,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 43,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 44,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 45,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 46,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 47,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 48,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 49,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 50,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 51,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 52,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 53,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 54,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 55,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 56,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 57,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 58,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 59,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 60,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 61,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 62,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 63,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 64,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 65,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 66,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 67,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 68,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 69,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 70,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 71,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 72,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 73,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 74,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 75,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 76,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 77,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 78,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 79,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 80,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 81,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 82,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 83,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 84,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 85,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 86,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 87,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 88,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 89,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 90,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 91,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 92,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 93,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 94,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 95,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 96,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 97,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 98,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 99,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 100,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 101,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 102,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 103,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 104,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 105,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 106,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 107,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 108,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 109,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 110,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 111,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 112,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 113,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 114,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 115,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 116,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 117,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 118,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 119,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 120,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 121,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 122,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 123,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 124,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 125,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 126,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 127,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 128,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 129,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 130,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 131,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 132,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 133,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 134,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 135,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 136,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 137,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 138,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 139,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 140,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 141,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 142,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 143,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 144,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 145,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 146,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 147,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 148,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 149,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 150,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 151,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 152,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 153,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 154,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 155,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 156,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 157,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 158,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 159,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 160,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 161,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 162,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 163,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 164,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 165,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 166,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 167,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 168,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 169,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 170,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 171,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 172,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 173,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 174,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 175,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 176,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 177,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 178,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 179,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 180,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 181,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 182,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 183,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 184,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 185,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 186,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 187,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 188,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 189,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 190,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 191,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 192,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 193,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 194,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 195,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 196,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 197,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 198,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 199,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 200,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 201,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 202,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 203,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 204,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 205,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 206,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 207,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 208,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 209,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 210,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 211,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 212,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 213,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 214,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 215,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 216,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 217,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 218,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 219,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 220,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 221,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 222,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 223,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 224,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 225,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 226,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 227,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 228,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 229,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 230,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 231,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 232,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 233,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 234,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 235,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 236,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 237,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 238,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 239,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 240,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 241,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 242,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 243,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 244,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 245,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 246,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 247,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 248,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 249,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 250,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 251,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 252,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 253,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 254,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 255,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 256,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 257,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 258,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 259,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 260,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 261,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 262,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 263,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 264,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 265,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 266,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 267,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 268,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 269,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 270,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 271,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 272,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 273,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 274,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 275,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 276,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 277,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 278,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 279,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 280,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 281,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 282,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 283,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 284,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 285,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 286,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 287,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 288,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 289,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 290,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 291,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 292,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 293,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 294,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 295,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 296,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 297,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 298,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 299,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 300,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 301,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 302,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 303,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 304,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 305,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 306,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 307,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 308,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 309,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 310,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 311,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 312,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 313,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 314,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 315,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 316,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 317,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 318,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 319,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 320,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 321,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 322,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 323,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 324,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 325,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 326,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 327,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 328,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 329,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 330,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 331,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 332,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 333,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 334,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 335,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 336,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 337,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 338,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 339,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 340,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 341,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 342,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 343,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 344,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 345,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 346,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 347,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 348,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 349,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 350,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 351,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 352,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 353,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 354,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 355,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 356,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 357,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 358,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 359,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 360,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 361,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 362,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 363,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 364,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 365,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 366,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 367,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 368,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 369,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 370,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 371,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 372,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 373,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 374,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 375,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 376,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 377,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 378,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 379,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 380,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 381,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 382,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 383,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 384,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 385,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 386,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 387,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 388,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 389,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 390,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 391,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 392,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 393,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 394,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 395,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 396,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 397,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 398,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 399,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 400,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 401,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 402,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 403,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 404,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 405,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 406,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 407,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 408,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 409,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 410,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 411,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 412,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 413,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 414,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 415,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 416,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 417,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 418,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 419,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 420,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 421,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 422,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 423,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 424,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 425,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 426,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 427,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 428,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 429,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 430,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 431,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 432,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 433,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 434,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 435,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 436,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 437,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 438,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 439,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 440,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 441,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 442,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 443,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 444,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 445,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 446,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 447,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 448,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 449,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 450,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 451,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 452,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 453,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 454,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 455,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 456,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 457,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 458,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 459,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 460,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 461,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 462,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 463,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 464,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 465,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 466,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 467,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 468,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 469,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 470,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 471,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 472,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 473,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 474,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 475,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 476,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 477,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 478,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 479,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 480,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 481,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 482,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 483,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 484,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 485,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 486,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 487,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 488,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 489,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 490,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 491,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 492,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 493,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 494,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 495,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 496,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 497,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 498,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 499,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 500,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 501,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 502,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 503,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 504,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 505,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 506,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 507,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 508,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 509,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 510,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 511,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 512,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 513,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 514,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 515,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 516,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 517,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 518,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 519,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 520,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 521,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 522,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 523,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 524,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 525,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 526,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 527,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 528,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 529,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 530,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 531,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 532,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 533,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 534,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 535,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 536,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 537,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 538,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 539,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 540,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 541,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 542,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 543,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 544,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 545,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 546,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 547,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 548,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 549,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 550,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 551,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 552,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 553,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 554,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 555,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 556,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 557,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 558,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 559,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 560,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 561,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 562,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 563,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 564,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 565,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 566,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 567,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 568,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 569,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 570,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 571,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 572,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 573,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 574,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 575,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 576,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 577,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 578,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 579,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 580,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 581,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 582,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 583,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 584,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 585,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 586,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 587,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 588,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 589,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 590,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 591,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 592,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 593,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 594,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 595,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 596,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 597,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 598,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 599,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 600,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 601,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 602,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 603,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 604,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 605,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 606,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 607,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 608,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 609,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 610,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 611,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 612,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 613,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 614,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 615,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 616,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 617,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 618,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 619,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 620,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 621,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 622,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 623,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 624,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 625,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 626,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 627,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 628,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 629,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 630,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 631,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 632,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 633,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 634,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 635,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 636,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 637,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 638,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 639,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 640,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 641,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 642,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 643,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 644,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 645,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 646,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 647,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 648,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 649,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 650,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 651,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 652,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 653,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 654,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 655,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 656,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 657,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 658,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 659,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 660,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 661,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 662,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 663,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 664,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 665,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 666,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 667,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 668,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 669,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 670,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 671,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 672,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 673,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 674,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 675,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 676,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 677,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 678,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 679,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 680,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 681,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 682,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 683,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 684,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 685,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 686,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 687,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 688,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 689,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 690,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 691,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 692,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 693,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 694,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 695,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 696,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 697,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 698,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 699,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 700,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 701,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 702,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 703,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 704,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 705,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 706,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 707,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 708,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 709,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 710,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 711,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 712,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 713,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 714,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 715,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 716,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 717,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 718,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 719,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 720,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 721,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 722,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 723,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 724,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 725,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 726,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 727,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 728,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 729,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 730,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 731,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 732,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 733,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 734,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 735,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 736,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 737,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 738,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 739,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 740,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 741,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 742,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 743,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 744,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 745,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 746,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 747,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 748,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 749,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 750,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 751,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 752,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 753,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 754,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 755,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 756,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 757,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 758,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 759,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 760,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 761,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 762,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 763,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 764,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 765,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 766,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 767,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 768,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 769,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 770,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 771,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 772,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 773,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 774,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 775,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 776,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 777,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 778,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 779,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 780,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 781,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 782,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 783,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 784,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 785,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 786,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 787,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 788,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 789,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 790,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 791,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 792,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 793,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 794,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 795,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 796,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 797,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 798,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 799,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 800,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 801,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 802,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 803,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 804,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 805,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 806,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 807,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 808,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 809,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 810,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 811,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 812,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 813,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 814,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 815,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 816,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 817,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 818,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 819,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 820,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 821,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 822,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 823,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 824,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 825,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 826,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 827,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 828,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 829,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 830,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 831,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 832,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 833,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 834,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 835,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 836,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 837,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 838,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 839,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 840,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 841,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 842,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 843,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 844,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 845,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 846,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 847,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 848,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 849,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 850,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 851,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 852,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 853,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 854,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 855,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 856,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 857,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 858,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 859,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 860,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 861,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 862,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 863,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 864,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 865,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 866,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 867,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 868,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 869,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 870,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 871,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 872,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 873,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 874,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 875,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 876,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 877,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 878,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 879,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 880,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 881,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 882,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 883,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 884,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 885,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 886,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 887,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 888,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 889,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 890,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 891,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 892,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 893,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 894,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 895,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 896,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 897,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 898,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 899,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 900,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 901,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 902,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 903,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 904,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 905,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 906,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 907,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 908,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 909,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 910,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 911,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 912,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 913,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 914,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 915,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 916,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 917,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 918,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 919,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 920,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 921,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 922,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 923,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 924,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 925,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 926,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 927,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 928,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 929,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 930,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 931,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 932,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 933,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 934,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 935,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 936,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 937,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 938,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 939,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 940,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 941,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 942,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 943,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 944,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 945,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 946,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 947,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 948,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 949,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 950,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 951,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 952,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 953,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 954,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 955,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 956,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 957,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 958,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 959,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 960,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 961,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 962,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 963,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 964,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 965,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 966,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 967,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 968,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 969,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 970,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 971,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 972,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 973,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 974,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 975,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 976,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 977,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 978,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 979,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 980,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 981,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 982,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 983,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 984,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 985,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 986,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 987,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 988,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 989,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 990,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  },
+  {
+    "_id": 991,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 992,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation"
+  },
+  {
+    "_id": 993,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 994,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation"
+  },
+  {
+    "_id": 995,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "motivation"
+  },
+  {
+    "_id": 996,
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "motivation"
+  },
+  {
+    "_id": 997,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "motivation"
+  },
+  {
+    "_id": 998,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "motivation"
+  },
+  {
+    "_id": 999,
+    "quote": "If you're going through hell, keep going.",
+    "author": "Winston Churchill",
+    "category": "motivation"
+  },
+  {
+    "_id": 1000,
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation"
+  }
+]
